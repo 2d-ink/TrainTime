@@ -1,0 +1,36 @@
+.jumbotron{
+    background: burlywood; 
+    color: white; 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: ridge;
+    border-color: white; 
+}
+
+.trainSchedule{
+    border-style: ridge;
+    background: lightskyblue;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: white; 
+}
+
+.card-title{
+    border-style: ridge;
+    background: lightskyblue;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: white; 
+}
+
+#add-user{
+    background: blue;
+    color: white;
+    border-style: ridge; 
+}
+
+.body{
+    background: url("https://media.giphy.com/media/9fclu64Xq0guY/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
