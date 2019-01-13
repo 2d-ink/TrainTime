@@ -1,5 +1,5 @@
 # TrainTime
-[TrainTime](https://2d-ink.github.io/TrainTime/)
+[Train Time Link](https://2d-ink.github.io/TrainTime/)
 
 <p align="center">
 <img align="center" src="/assets/train.png" width="100%"/>
